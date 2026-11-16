@@ -1,0 +1,1 @@
+Easy,10,10,10,E,e,0;Intermediate,16,16,40,I,i,1;Hard,40,16,99,H,h,2;Extreme,40,24,192,X,x,3;Impossible,50,24,250,M,m,4

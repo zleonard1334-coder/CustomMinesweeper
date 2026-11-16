@@ -1,0 +1,1 @@
+current_difficulty:4|app_scaling:1.0|high_score_list_hard40x16b99:|scores_to_save:10|high_score_list_easy10x10b10:5.643,6.113,7.212,8.984|high_score_list_impossible50x24b250:|high_score_list_intermediate16x16b40:|high_score_list_extreme40x24b192:
